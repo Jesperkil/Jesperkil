@@ -1,16 +1,19 @@
-## Hi there 👋
+![Jesper Kildal — Learning by building](assets/banner.svg)
 
-<!--
-**Jesperkil/Jesperkil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi, I'm Jesper 👋
 
-Here are some ideas to get you started:
+I like turning ideas into useful things, learning along the way, and paying attention to the details that make something feel good to use.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### What interests me
+
+- **Code** — understanding how things work by building and experimenting.
+- **Design** — clear interfaces, thoughtful details, and simple experiences.
+- **Progress** — small improvements that add up over time.
+
+#### A little personality
+
+Curiosity tends to lead to another project. Golf is a good reason to step away from the screen. ⛳
+
+---
+
+<sub>Always learning. Always a work in progress.</sub>
